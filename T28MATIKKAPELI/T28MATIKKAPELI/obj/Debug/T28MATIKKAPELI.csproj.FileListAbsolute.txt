@@ -1,0 +1,7 @@
+C:\Users\Omistaja\source\repos\T28MATIKKAPELI\T28MATIKKAPELI\bin\Debug\T28MATIKKAPELI.exe.config
+C:\Users\Omistaja\source\repos\T28MATIKKAPELI\T28MATIKKAPELI\bin\Debug\T28MATIKKAPELI.exe
+C:\Users\Omistaja\source\repos\T28MATIKKAPELI\T28MATIKKAPELI\bin\Debug\T28MATIKKAPELI.pdb
+C:\Users\Omistaja\source\repos\T28MATIKKAPELI\T28MATIKKAPELI\obj\Debug\T28MATIKKAPELI.csprojAssemblyReference.cache
+C:\Users\Omistaja\source\repos\T28MATIKKAPELI\T28MATIKKAPELI\obj\Debug\T28MATIKKAPELI.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\T28MATIKKAPELI\T28MATIKKAPELI\obj\Debug\T28MATIKKAPELI.exe
+C:\Users\Omistaja\source\repos\T28MATIKKAPELI\T28MATIKKAPELI\obj\Debug\T28MATIKKAPELI.pdb
