@@ -1,0 +1,7 @@
+C:\Users\Omistaja\source\repos\T14Huutokauppa\T14Huutokauppa\bin\Debug\T14Huutokauppa.exe.config
+C:\Users\Omistaja\source\repos\T14Huutokauppa\T14Huutokauppa\bin\Debug\T14Huutokauppa.exe
+C:\Users\Omistaja\source\repos\T14Huutokauppa\T14Huutokauppa\bin\Debug\T14Huutokauppa.pdb
+C:\Users\Omistaja\source\repos\T14Huutokauppa\T14Huutokauppa\obj\Debug\T14Huutokauppa.csprojAssemblyReference.cache
+C:\Users\Omistaja\source\repos\T14Huutokauppa\T14Huutokauppa\obj\Debug\T14Huutokauppa.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\T14Huutokauppa\T14Huutokauppa\obj\Debug\T14Huutokauppa.exe
+C:\Users\Omistaja\source\repos\T14Huutokauppa\T14Huutokauppa\obj\Debug\T14Huutokauppa.pdb
