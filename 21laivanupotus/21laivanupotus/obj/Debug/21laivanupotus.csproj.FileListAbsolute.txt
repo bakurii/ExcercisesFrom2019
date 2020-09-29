@@ -1,0 +1,7 @@
+C:\Users\Omistaja\source\repos\21laivanupotus\21laivanupotus\bin\Debug\21laivanupotus.exe.config
+C:\Users\Omistaja\source\repos\21laivanupotus\21laivanupotus\bin\Debug\21laivanupotus.exe
+C:\Users\Omistaja\source\repos\21laivanupotus\21laivanupotus\bin\Debug\21laivanupotus.pdb
+C:\Users\Omistaja\source\repos\21laivanupotus\21laivanupotus\obj\Debug\21laivanupotus.csprojAssemblyReference.cache
+C:\Users\Omistaja\source\repos\21laivanupotus\21laivanupotus\obj\Debug\21laivanupotus.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\21laivanupotus\21laivanupotus\obj\Debug\21laivanupotus.exe
+C:\Users\Omistaja\source\repos\21laivanupotus\21laivanupotus\obj\Debug\21laivanupotus.pdb
