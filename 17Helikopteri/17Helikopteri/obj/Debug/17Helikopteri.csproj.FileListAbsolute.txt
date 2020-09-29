@@ -1,0 +1,7 @@
+C:\Users\Omistaja\source\repos\17Helikopteri\17Helikopteri\bin\Debug\17Helikopteri.exe.config
+C:\Users\Omistaja\source\repos\17Helikopteri\17Helikopteri\bin\Debug\17Helikopteri.exe
+C:\Users\Omistaja\source\repos\17Helikopteri\17Helikopteri\bin\Debug\17Helikopteri.pdb
+C:\Users\Omistaja\source\repos\17Helikopteri\17Helikopteri\obj\Debug\17Helikopteri.csprojAssemblyReference.cache
+C:\Users\Omistaja\source\repos\17Helikopteri\17Helikopteri\obj\Debug\17Helikopteri.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\17Helikopteri\17Helikopteri\obj\Debug\17Helikopteri.exe
+C:\Users\Omistaja\source\repos\17Helikopteri\17Helikopteri\obj\Debug\17Helikopteri.pdb
