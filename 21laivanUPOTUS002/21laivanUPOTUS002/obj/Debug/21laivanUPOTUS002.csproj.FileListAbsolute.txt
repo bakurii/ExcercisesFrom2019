@@ -1,0 +1,7 @@
+C:\Users\Omistaja\source\repos\21laivanUPOTUS002\21laivanUPOTUS002\bin\Debug\21laivanUPOTUS002.exe.config
+C:\Users\Omistaja\source\repos\21laivanUPOTUS002\21laivanUPOTUS002\bin\Debug\21laivanUPOTUS002.exe
+C:\Users\Omistaja\source\repos\21laivanUPOTUS002\21laivanUPOTUS002\bin\Debug\21laivanUPOTUS002.pdb
+C:\Users\Omistaja\source\repos\21laivanUPOTUS002\21laivanUPOTUS002\obj\Debug\21laivanUPOTUS002.csprojAssemblyReference.cache
+C:\Users\Omistaja\source\repos\21laivanUPOTUS002\21laivanUPOTUS002\obj\Debug\21laivanUPOTUS002.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\21laivanUPOTUS002\21laivanUPOTUS002\obj\Debug\21laivanUPOTUS002.exe
+C:\Users\Omistaja\source\repos\21laivanUPOTUS002\21laivanUPOTUS002\obj\Debug\21laivanUPOTUS002.pdb
